@@ -7,7 +7,6 @@ import com.project.speech.repository.AuthorRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import java.util.List;
 
 /**
  * @author Vince Spencer Historia

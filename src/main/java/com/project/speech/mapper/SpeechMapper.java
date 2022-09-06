@@ -1,8 +1,6 @@
 package com.project.speech.mapper;
 
-import com.project.speech.dto.AuthorDTO;
 import com.project.speech.dto.SpeechDTO;
-import com.project.speech.entity.Author;
 import com.project.speech.entity.Speech;
 import org.mapstruct.Mapper;
 import org.mapstruct.Mapping;

@@ -1,7 +1,6 @@
 package com.project.speech.service;
 
 import com.project.speech.entity.Author;
-import com.project.speech.entity.Speech;
 import com.project.speech.repository.AuthorRepository;
 import org.junit.Before;
 import org.junit.Test;

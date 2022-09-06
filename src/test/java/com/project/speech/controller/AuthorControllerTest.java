@@ -1,10 +1,8 @@
 package com.project.speech.controller;
 
 import com.project.speech.dto.AuthorDTO;
-import com.project.speech.dto.SpeechDTO;
 import com.project.speech.entity.Author;
 import com.project.speech.mapper.AuthorMapper;
-import com.project.speech.mapper.SpeechMapper;
 import com.project.speech.service.AuthorService;
 import org.junit.Before;
 import org.junit.Test;
